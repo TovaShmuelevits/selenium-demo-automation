@@ -1,0 +1,21 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Build
+target/
+build/
+*.class
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven / Gradle
+.mvn/
+.gradle/
+!gradle-wrapper.jar
